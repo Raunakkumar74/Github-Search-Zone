@@ -1,12 +1,117 @@
-# React + Vite
+# 🔍 GitHub Search Zone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive React app that allows users to search and explore GitHub profiles using the GitHub REST API — **no login required**.
 
-Currently, two official plugins are available:
+[🚀 Live Demo](https://your-live-demo-link.com) • [📂 GitHub Repo](https://github.com/your-username/github-search-zone)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🔍 Search any public GitHub username  
+* 👤 View user details: avatar, name, username, location, and bio  
+* 📊 See followers, following, and repository count  
+* 📁 Browse clickable repository list  
+* ⚡ Animated, responsive UI with modern glassmorphism styling  
+* 🔐 No authentication required (up to 60 unauthenticated requests per hour)  
+
+---
+
+## 🛠 Tech Stack
+
+```yaml
+Frontend: React + Vite  
+Styling:  CSS3 + Animations  
+API:      GitHub REST API  
+```
+
+---
+
+## 📁 Folder Structure
+
+```bash
+github-search-zone/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── components/
+│   │   └── ProfileCard.jsx
+│   └── styles/
+│       └── App.css
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🧪 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/your-username/github-search-zone.git
+cd github-search-zone
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Start the development server
+
+```bash
+npm run dev
+```
+
+🔗 Open your browser at `http://localhost:5173`
+
+---
+
+
+## 🎯 Use Cases
+
+* 📁 Portfolio reviews  
+* 🧑‍💼 Developer hiring assessments  
+* 📚 GitHub learning workshops  
+* 💡 Practicing API integration in React  
+
+---
+
+## 📄 License
+
+```yaml
+License: MIT  
+Permission: Free to use, modify, and distribute  
+```
+
+---
+
+## 🙌 Contributing
+
+```bash
+# Fork this repo
+# Create a new branch
+# Make changes
+# Open a pull request
+```
+
+Contributions are welcome!  
+Feel free to report bugs, suggest features, or create pull requests.
+
+---
+
+## 📬 Contact
+
+```yaml
+Name: Raunak Kumar  
+GitHub: https://github.com/Raunakkumar74  
+```
+
+---
+
+> Built with ❤️ using React + GitHub API + Vite
