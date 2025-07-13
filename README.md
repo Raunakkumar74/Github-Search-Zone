@@ -2,7 +2,7 @@
 
 A sleek and responsive React app that allows users to search and explore GitHub profiles using the GitHub REST API — **no login required**.
 
-[🚀 Live Demo](https://your-live-demo-link.com) • [📂 GitHub Repo](https://github.com/your-username/github-search-zone)
+[🚀 Live Demo](https://raunakkumar74.github.io/Github-Search-Zone/) • [📂 GitHub Repo](https://github.com/Raunakkumar74/Github-Search-Zone)
 
 ---
 
